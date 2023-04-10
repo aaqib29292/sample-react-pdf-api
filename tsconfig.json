@@ -5,7 +5,7 @@
     "target": "es6",
     "rootDir": "./src",
     "esModuleInterop": true,
-    "outDir": "./build",
+    "outDir": "./dist",
     "skipLibCheck": true
   }
 }
